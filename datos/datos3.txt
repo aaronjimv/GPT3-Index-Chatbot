@@ -1,0 +1,198 @@
+La Inteligencia Artificial y la Próxima Revolución Científica
+Introducción
+Hoy en día, la inteligencia artificial esta siendo aplicada en numerosas ramas de la ciencia y campos
+laborales, esta ayudando a los humanos a hacer predicciones, a desarrollar proyectos y soluciones
+innovadoras, a diseñar nuevos productos y nuevos sistemas, etc. La inteligencia artificial esta
+sustituyendo la forma tradicional de hacer las cosas, esta reemplazando los procesos repetitivos y
+con probabilidades de error que realizamos los humanos por sistemas computarizados precisos que
+hacen los procesos más eficientes. Esta tecnología va avanzando cada día y es lo que nos espera en
+el futuro cercano.
+En este documento se describe un poco de la historia de cómo los humanos hemos venido
+analizando los datos durante décadas y como llegamos al punto de trabajar con la inteligencia
+artificial. Se describen algunos ejemplos de casos exitosos en que esta tecnología ha sido aplicada y
+como ha impactado a las empresas. Se muestra un análisis y opinión personal acerca del tema
+contrastado con la realidad del país.
+Desarrollo
+El primer artículo, “La próxima Revolución Científica”, nos comienza describiendo un poco acerca de
+cómo el hecho de tener almacenados enormes cantidades de datos nos ha permitido obtener
+respuestas a diferentes problemáticas del mundo. Hoy en día, los científicos de la computación
+continúan trabajando de la mano con científicos de otras disciplinas como ser la biología, química,
+astronomía, física, etc. para poder seguir buscando soluciones alternativas y revolucionarias
+principalmente en temas de energía y salud.
+Durante años, los científicos de la computación han tratado de diseñar programas para que las
+computadoras puedan pensar como humanos científicos o expertos de diferentes ramas, pero a
+pesar de hacer los mejores intentos estos fracasaban. Siempre las ideas innovadoras provenían un
+científico, un ingeniero o un especialista del área. Sin embargo, nos estamos enfrentando a una
+nueva problemática: el exceso de datos. Se cuenta con tanta información que esta superando la
+capacidad de que tenemos de poder almacenarla, organizarla y analizarla. Debido a esto, Jim Gay
+propone algo llamado “el cuarto paradigma” de la exploración científica, el cual nos da una visión de
+nuevas herramientas que nos servirán para poder visualizar y analizar los datos para poder responder
+a las nuevas problemáticas globales.
+El primer paradigma proviene a partir de las antiguas culturas de China y Grecia en donde el método
+experimental consistía en que las personas daban una explicación a sus observaciones según causas
+naturales en vez de causas supernaturales. El segundo paradigma nace en el siglo 17 con Isaac
+Newton en donde se hacían predicciones validando hipotesis mediante distintas pruebas. El tercer
+paradigma lo encontramos en el siglo 20 ya que el desarrollo de las computadoras permitió poder
+realizar simulaciones para poder dar respuestas en áreas donde era imposible hacerlo mediante
+experimentación y teoría. El cuarto paradigma consiste con el uso de computadoras potentes que nos
+permitan hacer minería de datos en enormes bases de datos para poder encontrar relaciones entre
+los datos y dar respuestas a problemáticas globales mucho más complejas. Aun así, el cuarto
+paradigma no pretende reemplazar ninguna de las tres metodologías ni a los científicos.
+Un concepto importante de mencionar sobre el artículo es el “aprendizaje de máquina”, el cual
+consiste en un programa diseñado para revisar minuciosamente una base de datos amplia para poder
+encontrar patrones, similitudes y probabilidades. Esto le permite a la computadora poder “aprender” e
+ir afinando los resultados estimados.
+Con el gran poder computacional que se ha alcanzado en el siglo 21 en el almacenamiento de datos,
+la minería de información y el asertivo análisis e interpretación de dichos datos, sumado la
+experiencia de los científicos y el aprendizaje de máquina, ha dado paso a que hoy por hoy se estén
+logrando grandes avances a nivel mundial. Esta tecnología y el análisis de datos ha permito la
+investigación de los océanos, descubrimientos en la astronomía, soluciones para enfermedades como
+el descubrimiento de formas de como detener el VIH y soluciones a sequías. A parte de todo el
+conocimiento que estamos obtenidos y los cambios positivos que se están generando en el mundo, el
+cuarto paradigma abrirá oportunidades de negocio que están ligadas a las soluciones encontradas.
+Es muy importante recordar que para poder solucionar los grandes problemas de la sociedad, todas
+las disciplinas deben de trabajar conjuntamente.
+El segundo artículo, “Coda Coffee y la cadena de suministro bext360: Visión de máquina, inteligencia
+artificial, internet de las cosas y cadena de bloques” nos narra la historia de dos hermanos Tim y
+Tommy Thwaites, los fundadores de Coda Coffee que crecieron dentro del negocio del café en
+Seattle. En la década de 1990, ambos hermanos comenzaron a trabajar en Dillanos Coffee Roasters
+con puestos de nivel jerárquico bajo. Luego de un par de años Tommy se convirtió en el
+vicepresidente de la empresa y Tim obtuvo un ascenso como jefe de tostadores.
+A raíz de los ataques terroristas ocurridos en el 2001, dieron un giro a su vida y se mudaron a
+Colorado donde ambos terminaron trabajando en empresas de un rubro muy diferente al café.
+Durante esa etapa, Tom Thwaites, el padre de ambos hermanos, estaba enfrentando problemas
+cardiacos lo cual lo obligo a jubilarse antes de tiempo. Del dinero de su jubilación, Tom les dio a sus
+hijos $150,000. Es así como los hermanos logran fundar en 2005 “Coda Coffee”, la tienda local
+mayorista de café en Denver Colorado.
+Coda Coffee comenzó como un proveedor mayorista de café premium, el 95% de sus clientes
+incluían distribuidores, cafés, restaurantes, y grandes proveedores en la industria de los alimentos. El
+consumidor final no tenía conocimiento de que él estaba tomando café Coda, únicamente disfrutaban
+de una taza de café y esta es la razón por la cual los cliente de Coda Coffee basaban su compra
+sobre la calidad y el precio del café.
+Durante ese tiempo, el 80% del café del mundo venía de 25 millones de distintos pequeños
+agricultores con mano de obra casi solo dentro del núcleo familiar. Estos tenían pequeñas parcelas
+de tierras en las cuales cultivaban varios productos principalmente para subsistencia y unos cuantos
+para la venta. Las certificaciones de Comercio Justo tenían como objetivo conectar a los productores
+y los consumidores, para que los productores pudieran recibir un salario justo y pudieran aprender
+acerca de las mejores prácticas agrícolas sostenibles. El comercio justo representada para Coda
+Coffee cerca del 40% del abastecimiento de su café, sin embargo, tenía una gran limitante ya que el
+grano de café era de baja calidad.
+Ante la problemática de la calidad del grano del consumo justo, en 2001 Coda Coffee presentó un
+programa de certificación llamada Farm2Cup. Para poder obtener la certificación, los productores de
+café Debian de recibir entrenamientos sobre defectos de calidad y se debían de comprometer a
+detectarlos y minimizarlos para mejorar la calidad del café. Se abrieron cooperativas entre varios
+pequeños productores para poder influir sobre las prácticas de cultivo sostenible, estas permitieron
+que los productores pudieran adquirir múltiples equipos de procesamiento de café para el
+mejoramiento de la calidad en su proceso. Como consecuencia del programa de certificación
+Farm2Cup, los productores certificados obtenían primas más significativas por su café de alta calidad
+y había un mayor compromiso por la mejora continua.
+En 2013, Coda Coffee se certificó como una “Empresa B” ya que cumplía con los más altos
+estándares desempeño social y ambiental, transparencia publica y responsabilidad legal. Al final del
+mismo año Coda Coffee fue nombrado por la revista Roast Magazine como el “Macrotostador del
+Año” debido a su dedicación a las practicas sostenibles, el compromiso con los empleados y la
+educación en calidad del café.
+Daniel Jones, fundador de bext360 y matemático egresado de la Universidad de Cornell, desarrolló
+una máquina con inteligencia artificial que podía determinar la calidad de los minerales. Dicha
+máquina era tan precisa que los mineros confiaban más en las lecturas digitales que en la de los
+seres humanos. Luego Jones decidió dar un giro y apuntaría a introducirse en el rubro de cadenas de
+suministro de café, es ahí donde conoce a Tommy Thwaites y rápidamente deciden formar una
+asociación. Ellos vieron el gran potencial en aplicar la visión de máquina, la inteligencia artificial y el
+internet de las cosas para poder determinar la calidad del café. La capacidad humana para evaluar y
+comparar variables es limitada, por lo tanto, unieron la percepción visual de calidad humano y la
+visión de maquina con la capacidad computacional de la inteligencia artificial para poder determinar
+con precisión la calidad del grano de café. Con el internet de las cosas se tenía la capacidad de
+conectarse a internet o a la nube por medio de dispositivos tradicionales como ser la computadora.
+En cada paso del proceso había una máquina analizando por medio de inteligencia artificial los
+granos de café, los resultados de estos análisis automáticamente se registraban en una base de
+datos en la nube asegurando la transparencia y la calidad de su producto en todo el proceso. Muy
+pronto este proyecto fue lanzado como un software con licencia.
+El tercer artículo, “Artificial Intelligence in the Recruitment & Selection: Innovation And Impacts For
+The Human Resources Management”, nos da una nueva perspectiva y nos explica como la
+inteligencia artificial puede tener impactos no solo en la ciencia si no también puede impactar a la
+fuerza laboral por medio del proceso del reclutamiento y selección.
+El proceso de R&S (Reclutamiento y Selección) es uno de los procesos principales del área de
+recursos humanos ya que implica la elección de personas mediante la identificación de sus
+características, competencias y valores los cuales deben estar alineado con los objetivos estratégicos
+de las empresas. Cada proceso de reclutamiento tiene un costo y este puede ser medido en base a la
+cantidad de horas que el reclutador dedica a la búsqueda de candidatos, evaluación de perfiles,
+entrevistas, aplicación de exámenes psicométricos, etc. todo este tiempo pudo haber sido dedicado a
+la realización de actividades de estrategia que agreguen valor. Si todo este proceso se lleva a cabo
+sin la seriedad ni la ética debida, olvidando los objetivos de la compañía, puede traer consecuencias
+graves a la compañía.
+La inteligencia artificial pretende ser usado como un instrumento integral del departamento de
+recursos humanos que permita que los procesos sean agiles mediante en el uso de la computadora y
+el aprendizaje de la máquina, a través de la organización de información correspondiente a los
+procesos de selección de la empresa, con el objetivo de la automatización de las tareas realizadas
+por personas, dándole a la computadora la autonomía para ejercerlas. Esto trae como consecuencia
+varios beneficios en la efectividad organizacional, tales como: reducción de errores, reducción de los
+tiempos de resolución de problemas; mayor productividad y flexibilidad en la cual se considera la
+posibilidad de almacenar la información y un mejor uso de la acción humana.
+También se puede utilizar para evaluar los comportamientos y habilidades de los candidatos en
+situaciones reales. Además de eso, la inteligencia artificial ayuda en la unión entre candidatos y
+empresas, debido a la referencia cruzada de información de perfil de la compañía previamente
+perfilada para crear un modelo de candidato ideal. Las nuevas vacantes se comparan con este
+modelo, con respecto a las pruebas, la experiencia, la información general del plan de estudios, con
+el fin de verificar la similitud con el perfil ideal. Es un análisis de cuán favorable es cada candidato
+para ser el ideal para llenar una vacante en la organización. Esto puede facilitar las rutinas de los
+reclutadores y ayuda al departamento de recursos humanos a posicionarse cada vez más
+estratégicamente dentro de su empresa, canalizando el esfuerzo y el tiempo en actividades que la
+máquina no puede reemplazar. Además, facilita la relación con los candidatos de las nuevas
+generaciones, acostumbrados a relacionarse con las computadoras, como facilitadores del día a día.
+Aquellas empresas que deseen destacarse y alcanzar ventajas competitivas, deberán estar atentas a
+las nuevas formas de atracción de talentos. Sin embargo, cambios como los provocados por la
+inclusión de nuevas tecnologías pueden traer mucha inseguridad a los empleados, ya sea por el
+desconocimiento del uso de esta tecnología o por la ansiedad de poder ser sustituidos y perder sus
+empleos. Por lo tanto, es de mucha importancia que las organizaciones se preparen para esta nueva
+etapa.
+Análisis Personal
+La inteligencia artificial se ha convertido en una base fundamental de la tecnología ya que en un
+futuro no muy lejano se tiene como intención de que las computadoras tengan la capacidad de tener
+un funcionamiento propio, es decir, libre de cualquier intervención humana. Esto nos anticipa a que
+podamos proyectarnos en un futuro muy desarrollado. A medida pasan los años, se suman
+descubrimientos y proyectos que en algún momento pensábamos que fuesen imposibles de lograr.
+Es evidente como en la historia, los humanos cada vez hemos ido mejorando la tecnología, pero
+siempre que se habla de este tema vemos como son ciertos países los que resaltan. Muchos países
+de la región de Latinoamérica y el Caribe apenas están generando conciencia sobre la importancia
+del desarrollo de la inteligencia artificial. Considero que existe una desconexión entre la tecnología y
+los países en desarrollo.
+La tecnología está avanzando rápidamente de forma global y trae consigo muchos cambios los
+cuales obliga a que las empresas y los gobiernos inviertan en la parte tecnológica, ya que si no lo
+hacen se están quedando atrás. La tecnología de la inteligencia artificial la podemos encontrar en
+distintos rubros como ser: alimentos, bebidas, hospitales, hoteles, etc. e incluso dentro de
+departamentos de empresas como ser recursos humanos. Esto nos indica que es un cambio fuerte
+que ya esta sucediendo en la actualidad y que en el futuro será la base. Por lo tanto, las empresas en
+Honduras deben optar por la transformación digital, para impulsar este cambio hay una iniciativa
+privada liderada por Banco Atlántida llamada “Honduras Digital Challenge”, en este programa se
+pretende promover el desarrollo de negocios tecnológicos o también llamados “start up”. Pero hace
+falta mucho mas que algunos programas para poder llevar todo un país a un cambio tan grande y en
+poco tiempo.
+La realidad del país es preocupante ya que un gran porcentaje de la población no sabe leer, no sabe
+utilizar una computadora y únicamente tiene acceso a los servicios básicos. La pobre calidad de la
+educación en nuestro país nos impide poder avanzar con el ritmo en que se está moviendo la
+tecnología y nos estamos quedando muy por detrás. Muchos de los puestos de trabajos actuales que
+realizan los seres humanos serán reemplazados por maquinas y sistemas automatizados, pero con
+este cambio surgirán nuevos puestos de trabajo. La educación juega un papel importante ya que los
+centros educativos están preparando a los alumnos en las carreras convencionales y no para las
+carreras del futuro.
+La incertidumbre del no saber lo que pasará con la inclusión total de la inteligencia artificial en las
+actividades cotidianas del ser humano es algo que causa muchas dudas y debates. Pero de lo que no
+podemos dudar es que esto ya es una realidad que avanza con rapidez y que lo mínimo que
+podemos hacer es prepararnos para no quedarnos fuera. El mundo y la tecnología avanza, y no se va
+a detener simplemente porque un país o una empresa no se adapta.
+Conclusiones
+Del siguiente ensayo podemos concluir que la inteligencia artificial existe desde hace décadas atrás y
+con la investigación de los científicos de la computación ha venido mejorando. Es una realidad que se
+está viviendo de forma global y a medida se vaya fortaleciendo formará de nuestra vida cotidiana.
+La implementación de esta tecnología traerá cambios al ser humano, uno muy importante será el giro
+en los puestos de trabajo ya que muchas actividades repetitivas y con margen de error realizadas por
+seres humanos serán sustituidas por máquinas precisas. Debido a ello, los sistemas educativos
+deben de transformarse para preparar a profesionales capaces de enfrentarse al futuro cercano que
+nos espera.
+Esta tecnología traerá beneficios a todo tipo de empresas ya que su campo aplicación no esta
+limitado a una industria en particular. Esta facilitando descubrimientos importantes en distintas
+ciencias y demás está permitiendo la generación de nuevas empresas categorizadas como “start up”.
+El futuro que nos espera a los seres humanos con la implementación de la inteligencia artificial es un
+tema que causa mucho debate por las diferentes opiniones de expertos que existen en la actualidad.
+Debemos de tener claro que la implementación de esta tecnología debe de ir de la mano con
+estrategias de previsión que nos permita adaptarnos a los diferentes escenarios a los cuales nos
+podemos enfrentar.

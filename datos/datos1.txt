@@ -1,0 +1,78 @@
+La Importancia De La Inteligencia Artificial en la Vida Del Ser
+Humano
+Para iniciar déjame hacerte una pregunta ¿cuál es tu red social favorita? Sea cual sea, todas utilizan
+inteligencia artificial. La Inteligencia artificial logra que las máquinas tengan conocimientos de tus
+hábitos, desde procesos básicos hasta situaciones más avanzadas como el reconocimiento de tu voz,
+entre otras cosas. Pero ¿qué es la Inteligencia Artificial? ¿por qué es importante para el ser humano?
+En este artículo, se responderán estas cuestiones.
+Inteligencia Artificial
+La Inteligencia artificial es la combinación de algoritmos desarrollados con la finalidad de crear
+programas y mecanismos que tengan capacidades similares al del ser humano. En un concepto
+práctico, se puede decir que la IA, es que las máquinas hagan y piensen como seres humanos.
+John McCarthy en 1956 emitió el término Inteligencia Artificial y lo definió como “la ciencia y el ingenio
+de hacer máquinas inteligentes, especialmente programas informáticos inteligentes”.
+La IA posee un gran potencial para resolver problemas difíciles del presente y del futuro, y tiene un
+impacto mayúsculo en el ser humano.
+Con la IA las computadoras empiezan a pensar, a reescribir y rediseñar sus propios programas.
+Como el caso muy comentado del proyecto que en parte ha financiado Facebook. En un laboratorio
+de investigación sobre inteligencia artificial de la Universidad Tecnológica de Georgia, el proyecto,
+para crear una inteligencia artificial capaz de aprender y desarrollar nuevas habilidades de
+negociación, dio un vuelco inesperado, para asombro de la empresa. Los responsables del proyecto
+tuvieron que apagar el proceso porque la inteligencia artificial había desarrollado su propio lenguaje,
+casi imposible de descifrar para los investigadores, pero mucho más apto y lógico para la tarea que
+debía realizar.
+Como pudimos notar, a pesar de que la IA, creo su propio lenguaje, fue muy apto, para lo que tenía
+que desempeñar. Con esto no estoy diciendo que tengamos miedo a la IA, sino que veamos la
+capacidad tan grande que tiene para beneficio de la humanidad.
+Analicemos algunos rubros donde se utiliza y que ha servido en gran medida para hacernos la vida
+más fácil. Nos puede dar la facultad de escuchar y ver mejor, así como dotarnos de nuevas
+capacidades. La IA es sin lugar a duda, una tecnología “disruptiva” que en los próximos años puede
+cambiar el concepto actual del trabajo, además de que puede mejorar nuestra calidad de vida y la
+salud de manera significativa.
+Algunas aplicaciones que usamos diariamente que utilizan IA y seguro has escuchado de ellas o las
+utilizado.
+Siri funciona como un asistente personal, ya que utiliza procesamiento de lenguaje natural.
+Facebook y Google Fotos sugieren el etiquetado y la compilación de fotos con base al
+reconocimiento de imagen.
+Amazon ofrece recomendaciones de productos basadas en modelos de canasta de compra.
+Waze brinda información optimizada de tráfico y navegación en tiempo real.
+Inteligencia Artificial en la medicina
+Guillermo Molero Castillo, integrante del laboratorio de Inteligencia Artificial de la Universidad
+Nacional Autónoma de México (UNAM) explicó que la IA “tiene el potencial de cambiar de manera
+significativa la atención médica y la salud del paciente, ya que se pueden detectar enfermedades
+genéticas; monitorear la frecuencia cardíaca, presión arterial, temperatura y niveles de glucosa; así
+como analizar los factores ambientales. Al obtener todos estos datos, las bases pueden relacionarse
+con otros datos sociales y utilizarse para crear nuevos modelos inteligencia artificial, con los que
+podrían predecirse ciertas enfermedades, notificar anticipadamente afecciones mortales, como
+derrames cerebrales y ataques cardíacos, o advertir sobre reacciones adversas a un medicamento”.
+Aunque en México, todavía falta mucho para lograr todo esto, en algunos países, ya se realizan
+procedimientos quirúrgicos más fácilmente con la ayuda de la IA, como el caso de la empresa de
+tecnología sanitaria Digital Surgery en Reino Unido, que desarrolló con éxito el primer sistema de IA
+dinámico, diseñado para cirugías. Esta compañía construye los datos para promocionar el futuro de la
+cirugía, por medio de mapas de ruta de procedimientos quirúrgicos patentados, que tienen como
+finalidad ayudar al equipo médico a reducir el riesgo y lograr que la cirugía sea más segura.
+Inteligencia artificial en la educación
+La IA tiene el poder de transformar trascendentalmente la educación, según lo afirma la UNESCO. De
+conformidad con la organización, ésta puede simplificar el acceso al aprendizaje, automatizar los
+procesos de gestión y optimizar los métodos de enseñanza que permiten mejorar el aprendizaje. Así,
+más personas se beneficiarán de programas educativos, además, de que reducirá las tareas
+repetitivas de los profesores e impulsará la formación personalizada, mientras da mayor relevancia al
+aprendizaje colaborativo. La IA puede hacer frente a los desafíos tradicionales de la enseñanza en el
+marco de las transformaciones.
+Inteligencia artificial en la vida diaria
+La IA está en nuestra vida cotidiana más de lo que nos podemos imaginar, por ejemplo, cuando
+ingresamos al estacionamiento de un centro comercial, la placa o matricula de nuestro auto, es
+reconocida gracias a la IA. Y si hablamos del teléfono móvil, hay muchas formas de IA, que se utiliza.
+Por ejemplo, para guiarnos, cuando buscamos alguna dirección, o la mejor ruta, nos orienta para
+llegar a nuestro destino. También cuando interactuamos con nuestro asistente virtual, además,
+cuando las plataformas de contenidos nos hacen sugerencias que se adaptan a nuestras
+preferencias. También cuando nuestro celular reconoce nuestra huella digital o nuestro rostro. En la
+casa, podemos utilizar la IA, para climatizar, encender o apagar luces o cuando la televisión, el
+refrigerador o la lavadora, conectadas al internet, hacen diversas funciones, como iniciar el ciclo de
+lavado, aunque estemos fuera de casa y así podríamos seguir enumerando muchas más actividades
+cotidianas donde interviene la IA. (Botti, 2019)
+Existen otras áreas donde la IA está tomando mucha relevancia, como en la agricultura, la ciencia, la
+aeronáutica, la electrónica, la computación, entre otras.
+Como pudimos notar, la IA cada día toma mayor trascendencia en la vida del ser humano, sus
+implicaciones han llevado a considerarla como algo muy útil y necesario, que nos ha servido para
+mejorar la calidad vida
