@@ -1,7 +1,7 @@
 import openai
 
 # Set up the OpenAI API key
-openai.api_key = "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"
+openai.api_key = "my_key"
 
 # Import libraries
 from llama_index import SimpleDirectoryReader, GPTListIndex, GPTVectorStoreIndex, LLMPredictor, PromptHelper, ServiceContext
