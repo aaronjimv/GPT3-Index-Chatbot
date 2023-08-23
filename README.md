@@ -4,7 +4,7 @@ This repository contains two scripts that together create a chatbot based on Ope
 
 ## Index Training (train.py)
 
-The `train.py` script is responsible for training a search index using OpenAI's GPT-3 language model. Here is a summary of the key steps in the process:
+The `Train.py` script is responsible for training a search index using OpenAI's GPT-3 language model. Here is a summary of the key steps in the process:
 
 1. Load training documents from a directory named "datos".
 2. Set parameters such as maximum input size, maximum token count, and chunk size.
@@ -16,7 +16,7 @@ The `train.py` script is responsible for training a search index using OpenAI's 
 
 ## Interactive Chatbot (predict.py)
 
-The `predict.py` script allows interacting with the chatbot to receive generated responses based on the previously trained index. Here is a summary of the key steps in the process:
+The `Predict.py` script allows interacting with the chatbot to receive generated responses based on the previously trained index. Here is a summary of the key steps in the process:
 
 1. Load the trained index from the "Modelo" directory.
 2. Create a query engine from the loaded index.
