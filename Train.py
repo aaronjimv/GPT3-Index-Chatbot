@@ -3,7 +3,6 @@ import openai
 # Set up the OpenAI API key
 openai.api_key = "my_key"
 
-# Import libraries
 from llama_index import SimpleDirectoryReader, GPTListIndex, GPTVectorStoreIndex, LLMPredictor, PromptHelper, ServiceContext
 from llama_index import StorageContext, load_index_from_storage
 import os
@@ -23,21 +22,20 @@ tokens = 256
 chnk_size = 600
 max_chnk_overlap = 0.2
 
-# Define the training function
 def entrenamiento(path):
-    # Create a PromptHelper to process requests
-    Prompt_helper = PromptHelper(max_input, tokens, max_chnk_overlap, chunk_size_limit=chnk_size)
-    
-    # Create an LLMPredictor model with a pre-trained OpenAI model
+    """
+    Train a GPTVectorStore index using documents in the specified directory.
+
+    Args:
+        path (str): Path to the directory containing training data.
+
+    Returns:
+        None
+    """
+    Prompt_helper = PromptHelper(max_input, tokens, max_chnk_overlap, chunk_size_limit=chnk_size)    
     modelo = LLMPredictor(llm=OpenAI(temperature=0, model_name="text-ada-001", max_tokens=tokens))
-    
-    # Create a service context using the model and the PromptHelper
     contexto = ServiceContext.from_defaults(llm_predictor=modelo, prompt_helper=Prompt_helper)
-        
-    # Train a GPTVectorStoreIndex using the documents and the service context
     index_model = GPTVectorStoreIndex.from_documents(docs,service_context=contexto)
-    
-    # Save the trained index to disk in a directory named "Modelo"
     index_model.storage_context.persist(persist_dir= 'Modelo') 
 
 # Call the training function with the "datos" directory
