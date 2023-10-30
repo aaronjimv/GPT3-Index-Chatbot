@@ -1,14 +1,13 @@
+from langchain import OpenAI
+from llama_index import (
+    SimpleDirectoryReader, GPTVectorStoreIndex,
+    LLMPredictor, PromptHelper, ServiceContext
+)
 import openai
+import os
 
 # Set up the OpenAI API key
 openai.api_key = "my_key"
-
-from llama_index import SimpleDirectoryReader, GPTListIndex, GPTVectorStoreIndex, LLMPredictor, PromptHelper, ServiceContext
-from llama_index import StorageContext, load_index_from_storage
-import os
-import gradio as gr 
-from langchain.embeddings import OpenAIEmbeddings
-from langchain import OpenAI
 
 # Set up the OpenAI API key as an environment variable
 os.environ['OPENAI_API_KEY'] = openai.api_key
@@ -21,6 +20,7 @@ max_input = 4098
 tokens = 256
 chnk_size = 600
 max_chnk_overlap = 0.2
+
 
 def entrenamiento(path):
     """
