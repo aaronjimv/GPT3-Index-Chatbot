@@ -32,11 +32,32 @@ def entrenamiento(path):
     Returns:
         None
     """
-    Prompt_helper = PromptHelper(max_input, tokens, max_chnk_overlap, chunk_size_limit=chnk_size)    
-    modelo = LLMPredictor(llm=OpenAI(temperature=0, model_name="text-ada-001", max_tokens=tokens))
-    contexto = ServiceContext.from_defaults(llm_predictor=modelo, prompt_helper=Prompt_helper)
-    index_model = GPTVectorStoreIndex.from_documents(docs,service_context=contexto)
-    index_model.storage_context.persist(persist_dir= 'Modelo') 
+    Prompt_helper = PromptHelper(
+        max_input,
+        tokens,
+        max_chnk_overlap,
+        chunk_size_limit=chnk_size
+    )
 
-# Call the training function with the "datos" directory
+    modelo = LLMPredictor(llm=OpenAI(
+        temperature=0,
+        model_name="text-ada-001",
+        max_tokens=tokens
+        )
+    )
+
+    contexto = ServiceContext.from_defaults(
+        llm_predictor=modelo,
+        prompt_helper=Prompt_helper
+    )
+
+    index_model = GPTVectorStoreIndex.from_documents(
+        docs,
+        service_context=contexto
+    )
+
+    index_model.storage_context.persist(persist_dir='Modelo')
+
+
+#  Call the training function with the "datos" directory
 entrenamiento("datos")
